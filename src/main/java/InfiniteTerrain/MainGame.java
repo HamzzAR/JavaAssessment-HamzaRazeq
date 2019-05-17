@@ -179,10 +179,5 @@ public class MainGame {
 		System.out.println("Distance to distination: "+String.format("%.2f", loc.getDistance())+" miles");
 	}
 	
-	public String useRangeScope() {
-		return null;
-		
-	}
-	
 
 }
